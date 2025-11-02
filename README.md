@@ -2,7 +2,6 @@
 This project aims to develop an integrated system for fintech excellence, leveraging advanced technologies to enhance operational efficiency and customer engagement. 
 
 The system combines:
-
 - Credit Risk Assessment: Utilizes machine learning models to assess credit risk based on customer data.
 - General AI Applications: Employs natural language processing (NLP) models for automated email handling, response generation, and transaction insights.
 - Features: Trains a machine learning model (Random Forest Classifier) to predict creditworthiness using historical customer data.
